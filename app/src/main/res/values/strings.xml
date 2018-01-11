@@ -1,0 +1,10 @@
+<resources>
+
+	<!-- Commun -->
+	<string name="app_name">Personnalisation Bitmap</string>
+
+	<!-- Main -->
+	<string name="main_menu_legende">Légende</string>
+	<string name="main_legende">Oeuvre de Denis Frémond</string>
+
+</resources>

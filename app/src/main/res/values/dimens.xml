@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Main -->
+	<dimen name="main_padding_legende">8dp</dimen>
+	<dimen name="main_taille_texte_legende">32sp</dimen>
+	<dimen name="main_marge_legende">8dp</dimen>
+	<dimen name="main_rayon_coin_fond_legende">16dp</dimen>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	  xmlns:app="http://schemas.android.com/apk/res-auto">
+
+	<!-- Apparaît comme icône dans l'action bar s'il y a de la place -->
+	<item
+		android:id="@+id/action_legende"
+		android:icon="@drawable/ic_action_legende"
+		android:title="@string/main_menu_legende"
+		app:showAsAction="always"/>
+
+</menu>
